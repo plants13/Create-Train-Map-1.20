@@ -219,7 +219,7 @@
 | 名称 | Create: Train Map Overlay，modid `trainmapoverlay` |
 | 仓库位置 | 当前仓库目录 `Create-Train-Map-1.20`（目录名与 1.20.1 对应，后续如有 1.21 分支另议） |
 | 包名 | `com.plants13.trainmapoverlay`（与 CTS 的 `com.plants13` 一致；作者署名沿用 `plants13`，如需改请指出） |
-| 许可证 | MPL-2.0（与 CTS 一致；Create 为 MIT，参考思路无冲突） |
+| 许可证 | **MIT**（r4 改定，见修订记录）。Create 6 的 `compat/trainmap` 为 MIT，移植代码须保留其版权声明；NOTICE 文件记录归属。CTS 仍为 MPL-2.0，两者为独立 mod，互不约束 |
 | JourneyMap | v1 不含（见 4.2） |
 | 版本号规则 | 语义化版本，文件名 `trainmapoverlay-1.20.1-0.1.0.jar`；API 版本号独立递增，破坏性变更升主版本 |
 | 参考源码 tag | **仍待核对**：在 <https://github.com/Creators-of-Create/Create/tags> 中确认 Create 6.0.10 对应 tag，及 0.5.1 对应分支/tag（M0 第一步） |

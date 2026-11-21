@@ -1,0 +1,28 @@
+Create: Train Map Overlay
+Copyright (c) 2026 plants13
+
+This mod is licensed under the MIT License (see LICENSE).
+
+== Third-party code ==
+
+The package com.plants13.trainmapoverlay (planned: the ported train map
+overlay, based on the compat/trainmap package of Create 6.x) is derived from
+Create, which is:
+
+    Copyright (c) The Create Team / The Creators of Create
+    Licensed under the MIT License.
+    Source: https://github.com/Creators-of-Create/Create
+    (LICENSE.md, "Code License (MIT)", branch mc1.21.1/dev)
+
+Per the MIT License, the copyright notice and permission notice of Create
+must be preserved in any copy or substantial portion of its code. Files
+derived from Create carry this notice in their headers.
+
+Create's assets (src/main/resources/assets/ in Create) are licensed separately
+as All Rights Reserved and are NOT included in this mod.
+
+== Runtime dependencies (not bundled) ==
+
+- Create 0.5.1.j (MIT) - hard dependency
+- Xaero's World Map 1.39.2 (optional, client) - not bundled
+- Minecraft / Forge - not bundled
